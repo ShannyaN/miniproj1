@@ -1,0 +1,35 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+img {
+    display: flexbox;
+    margin-left: 35%;
+    margin-top: 15%;
+    width:350px;
+    height: 250px;
+    border:10px solid purple;
+}
+#caption {
+    display:flex;
+    margin-left: 45%;
+}
+form {
+    display:block;
+    background-color: rgb(206, 225, 242);
+    margin: relative;
+    left:200px;
+    border:10px solid rgb(194, 59, 108);
+    padding: 5px;
+}
+header {
+    position: fixed;
+    top:0;
+}
+.class {
+    display:flexbox;
+    padding:0;
+    margin:0;
+}
+ul {
+    display: inline;
+}
